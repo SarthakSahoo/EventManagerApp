@@ -1,0 +1,12 @@
+db.sqlite3
+celerybeat-schedule
+additional.txt
+test.py
+ema/__pycache__
+ema/migrations/__pycache__
+ema/migrations/0001_initial.py
+ema/migrations/0002_alter_users_date_joined.py
+ema/migrations/0003_otp.py
+gqldemo/__pycache__
+sendemail/__pycache__
+ema/query.py
